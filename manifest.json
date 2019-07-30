@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Neil Supreme",
-  "description": "Inspired by this Tumblr: http://samepicofdavecoulier.tumblr.com, and this Chrome Extension: https://github.com/benhalpern/dave-coulier-chrome. But Neil instead.",
+  "description": "Inspired by this this Chrome Extension: https://github.com/benhalpern/dave-coulier-chrome. But Neil instead.",
   "version": "1.0.1",
 
   "content_scripts": [
