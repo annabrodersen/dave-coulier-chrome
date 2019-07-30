@@ -7,7 +7,7 @@ function replaceInAllCases(){
 }
 
 function replaceImages(){
-	var daveUrl = chrome.extension.getURL("dave.jpg")
+	var daveUrl = chrome.extension.getURL("neil.jpg")
 	//replace images with the image of Dave, mark as done with new class
 	$('img:not(.daved)').attr("src", daveUrl).addClass("daved");
 	//replace classes .img and .Image, mostly added this because Instagram doesn't use actual img objects
