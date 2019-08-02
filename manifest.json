@@ -4,7 +4,7 @@
   "name": "Neil Supreme",
   "description": "Inspired by this this Chrome Extension: https://github.com/benhalpern/dave-coulier-chrome. But Neil instead.",
   "version": "1.0.1",
-
+  "permissions": ["activeTab"],
   "content_scripts": [
       {
       "matches": [
@@ -17,5 +17,4 @@
     "web_accessible_resources": [
     "*.jpg"
     ]
-  "permissions": ["activeTab"]
 }
