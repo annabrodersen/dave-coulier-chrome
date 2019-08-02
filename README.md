@@ -1,4 +1,4 @@
-dave-coulier-chrome
+neil-supreme-chrome
 ===================
 
 It's a very simple chrome extension hacked together. The one file with functional JS should be pretty self explanatory.
